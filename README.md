@@ -9,7 +9,7 @@ Desain minimalis, elegan, dan modern.
 
 ## 👕 Fitur Utama
 
-- Tema hitam & putih elegan  
+- Tema hitam elegan  
 - Brand: **WORLDVIBES**  
 - Slogan: _"Freedom Of Life"_  
 - Desain responsif & ringan  
